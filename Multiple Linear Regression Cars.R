@@ -1,3 +1,4 @@
+# TO GET current working directory
 getwd()
 setwd("C:/Users/varun/Desktop")
 
